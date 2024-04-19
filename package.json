@@ -1,0 +1,12 @@
+{
+  "name": "ai-testgen",
+  "version": "1.0.0",
+  "description": "AI-powered Jest Test Case Generation",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {}
+}
